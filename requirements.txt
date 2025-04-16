@@ -1,0 +1,7 @@
+langchain==0.3.13
+langgraph==0.2.60
+langchain-openai==0.2.14
+streamlit==1.41.1
+langchain-teddynote==0.3.40
+python-dotenv==1.0.1
+attrs==23.2.0 
